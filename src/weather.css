@@ -1,0 +1,41 @@
+.weekcontainer {
+    display: inline-flex;
+}
+
+
+
+.container,.card {
+    height: 150px;
+    width: 100px;
+    margin: 20px 2px;
+    padding:0;
+}
+
+.dotw {
+    color: #808080;
+    margin: 10px 10px 5px 10px;
+    font-size: 18px;
+}
+
+.weatherimg {
+    width: 70px;
+    height: 70px;
+    align-self:center;
+}
+
+.temp {
+    align-self:center;
+}
+
+.hightemp {
+    display:inline-flex;
+    position: relative;
+    margin: 5px 5px;
+}
+
+.lowtemp {
+    display:inline-flex;
+    margin: 5px 0;
+    color: #808080;
+
+}
